@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{E4366A8E-1CC0-45F9-A268-3058A4C88A82}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BMI/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMI/ViewController.cs">
     <Files>
-      <File FileName="BMI/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="BMI/Main.storyboard" />
-      <File FileName="BMI/ViewController.cs" Line="1" Column="1" />
+      <File FileName="BMI/ViewController.cs" Line="27" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -12,7 +11,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BMI PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3646FC09-D7A8-4E37-9FCD-1DC7AAE59F58">
+  <MonoDevelop.Ide.ItemProperties.BMI PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.108755EB-B73C-4B06-9CBE-070792A4A478">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.BMI>
 </Properties>

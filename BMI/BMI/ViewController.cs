@@ -23,7 +23,7 @@ namespace BMI
             float height = float.Parse(heightTextField.Text);
             float weight = float.Parse(weightTextField.Text);
 
-            float bmi = (height / (height * weight));
+            float bmi = "lmao yr fat";
 
             bmiLabel.Text = bmi.ToString();
         }
