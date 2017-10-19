@@ -15,7 +15,7 @@ namespace BMI
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nib.
 
-            calculateButton.TouchUpInside+= CalculateButton_TouchUpInside;
+            calculateButton.TouchUpInside += CalculateButton_TouchUpInside;
         }
 
         void CalculateButton_TouchUpInside(object sender, EventArgs e)
@@ -23,7 +23,7 @@ namespace BMI
             float height = float.Parse(heightTextField.Text);
             float weight = float.Parse(weightTextField.Text);
 
-            float bmi = "lmao yr fat";
+            float bmi = (height / (height * weight));
 
             bmiLabel.Text = bmi.ToString();
         }
