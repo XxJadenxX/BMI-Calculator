@@ -1,9 +1,9 @@
 /Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/bin/iPhoneSimulator/Debug/BMI.exe
 /Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/bin/iPhoneSimulator/Debug/BMI.pdb
-/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
-/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
-/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
 /Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/BMI.csproj.CoreCompileInputs.cache
 /Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/BMI.exe
 /Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/BMI.pdb
+/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/actool/_PartialAppManifest.items
+/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/jadenl1/Desktop/Repose/BMI-Calculator/BMI/BMI/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/optimized/
