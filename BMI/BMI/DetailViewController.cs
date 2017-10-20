@@ -8,7 +8,8 @@ namespace BMI
     {
         float bmi = 21.5f;
 
-        public DetailViewController (IntPtr handle) : base (handle)
+        public DetailViewController(IntPtr handle) : base(handle)
         {
-            
         }
+    }
+}
